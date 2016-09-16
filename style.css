@@ -1,0 +1,19 @@
+body {
+  font-family: helvetica;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+}
+
+.result {
+  color: #333333;
+  height: 200px;
+  width: 200px;
+  background: gray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 2pt;
+}
+
